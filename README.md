@@ -30,5 +30,9 @@ Dublin](https://www.tcd.ie).
 
 * [pdf slides](/handouts/handout-03-spatialops.pdf)
 
+## 04 - Transforms
+
+* [pdf slides (pt1)](/handouts/handout-04-xforms-pt1.pdf)
+
 
 
