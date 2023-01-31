@@ -33,6 +33,7 @@ Dublin](https://www.tcd.ie).
 ## 04 - Transforms
 
 * [pdf slides (pt1)](/handouts/handout-04-xforms-pt1.pdf)
+* [pdf slides (pt2)](/handouts/handout-04-xforms-pt2.pdf)
 
 
 
