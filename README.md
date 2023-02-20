@@ -39,3 +39,15 @@ Dublin](https://www.tcd.ie).
 
 * [pdf slides](/handouts/handout-05-haar.pdf)
 
+## 06 - JPEG
+
+* [pdf slides](/handouts/handout-06-jpeg.pdf)
+
+## Tutorials
+* [tutorial 1 (pdf)](/tutorials/tutorial-01.pdf)
+* [tutorial 1 Q1 helper on z-transform (pdf)](/tutorials/tutorial-01-helper.pdf)
+* [sample exam (based on the 2016/2017 exam) (pdf)](/tutorials/EEC08-sample-exam.pdf)
+* [sample exam solutions (pdf)](/tutorials/EE4C08-sample-exam-solution.pdf)
+* [all previous year question papers](/tutorials/)
+
+
