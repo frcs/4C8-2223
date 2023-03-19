@@ -51,6 +51,9 @@ Dublin](https://www.tcd.ie).
 
 * [pdf slides](/handouts/handout-08-video.pdf)
 
+## 09 - Motion
+
+* [pdf slides](/handouts/handout-09-motion.pdf)
 
 
 
