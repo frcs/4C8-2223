@@ -61,7 +61,7 @@ Dublin](https://www.tcd.ie).
 
 ## 11 - Keynotes
 
-* [High Dynamic Range](/handouts/HDR-Vibhhothi.pdf)
+* [High Dynamic Range](/handouts/HDR-vibhoothi.pdf)
 
 
 
