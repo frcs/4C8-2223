@@ -59,6 +59,11 @@ Dublin](https://www.tcd.ie).
 
 * [pdf slides](/handouts/handout-10-mpeg2.pdf)
 
+## 11 - Keynotes
+
+* [High Dynamic Range](/handouts/HDR-Vibhhothi.pdf)
+
+
 
 ## Tutorials
 * [tutorial 1 (pdf)](/tutorials/tutorial-01.pdf)
